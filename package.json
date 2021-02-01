@@ -1,0 +1,13 @@
+{
+	"id":"com.moimz.minitalk.templet.dark",
+	"title":{
+		"ko":"미니톡 다크 템플릿"
+	},
+	"version":"1.0.0",
+	"author":{
+		"name":"Arzz",
+		"email":"arzz@arzz.com"
+	},
+	"homepage":"https://www.minitalk.io",
+	"language":"ko"
+}
