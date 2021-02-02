@@ -111,7 +111,6 @@ div[data-role=frame][data-tab-type=horizontal] > main {width:100%; height:calc(1
 div[data-role=frame][data-tab-type=vertical] > main {width:calc(100% - 35px); height:calc(100% - 40px);}
 div[data-role=frame][data-tab-type=vertical] > main > section[data-role] {left:auto; right:0; border-left:1px solid #1a1a1a; max-width:300px; height:calc(100% - 35px); box-sizing:border-box;}
 div[data-role=frame][data-tab-type=vertical] > main > section[data-role=chat] {border-left:0; max-width:none;}
-div[data-role=frame][data-tab-type=vertical] > main > section[data-role=chat] {}
 
 
 /**
